@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Makefile" />
+    <None Include="..\..\ProjetAnglais.code-workspace" />
+    <None Include="..\..\ProjetAnglais.uproject" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjetAnglais.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjetAnglaisEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\ProjetAnglais">
+      <UniqueIdentifier>{025E8529-C643-3A3F-8C50-2181A4CEE11F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjetAnglais\ProjetAnglais.Build.cs">
+      <Filter>Source\ProjetAnglais</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjetAnglais\ProjetAnglais.cpp">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\ProjetAnglais.h">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\ProjetAnglaisCameraManager.cpp">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\ProjetAnglaisCameraManager.h">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\ProjetAnglaisCharacter.cpp">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\ProjetAnglaisCharacter.h">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\ProjetAnglaisGameMode.cpp">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\ProjetAnglaisGameMode.h">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\ProjetAnglaisPlayerController.cpp">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\ProjetAnglaisPlayerController.h">
+      <Filter>Source\ProjetAnglais</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjetAnglais\Variant_Horror">
+      <UniqueIdentifier>{FA62947D-7E3F-350D-9FA0-11A185ECBEFD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\ProjetAnglais\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\ProjetAnglais\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\ProjetAnglais\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjetAnglais\Variant_Horror\UI">
+      <UniqueIdentifier>{FDD57BDB-558C-3AF7-9BDF-BAF2D837D937}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\ProjetAnglais\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjetAnglais\Variant_Shooter">
+      <UniqueIdentifier>{051D8539-0649-33CE-BECC-A11C021373F2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ProjetAnglais\Variant_Shooter\AI">
+      <UniqueIdentifier>{8C15A564-686E-3994-9CDF-7FA46DCBF1B9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjetAnglais\Variant_Shooter\UI">
+      <UniqueIdentifier>{4411FCBE-172E-3608-9AE5-069C3786B9B5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjetAnglais\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{B3D00B70-C64C-3212-BD07-DDC5D144E59B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjetAnglais\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\ProjetAnglais\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <None Include="..\..\test.py" />
+  </ItemGroup>
+</Project>

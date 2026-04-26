@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjetAnglais",
+			"Path": "..\\Source\\ProjetAnglais.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjetAnglaisEditor",
+			"Path": "..\\Source\\ProjetAnglaisEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

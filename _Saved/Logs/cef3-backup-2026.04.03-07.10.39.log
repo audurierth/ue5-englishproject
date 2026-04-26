@@ -1,0 +1,14 @@
+[16344:17720:0403/072157.027:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16344:21044:0403/072157.282:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16344:17720:0403/072157.419:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23628:23632:0403/072217.492:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-71BED00B226F21E84D8A79EBF033609F will be ignored
+[16344:20996:0403/072222.161:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[16344:17720:0403/072223.158:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16344:17720:0403/072223.159:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16344:17720:0403/072223.159:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16344:17720:0403/072223.159:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16344:20996:0403/072223.160:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4064:9572:0403/072439.089:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16344:21044:0403/080747.146:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15372:23228:0403/080747.150:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[16344:17720:0403/091039.631:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

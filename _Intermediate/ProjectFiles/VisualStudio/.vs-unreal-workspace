@@ -1,0 +1,19 @@
+{
+  "targets": {
+    "ProjetAnglaisEditor": {
+      "targetType": "Editor",
+      "targetPath": "C:\\UE\\ue5-englishproject\\Source\\ProjetAnglaisEditor.Target.cs",
+      "projectPath": "C:\\UE\\ue5-englishproject\\ProjetAnglais.uproject",
+      "configurations": [
+        "Development"
+      ],
+      "platforms": [
+        "Win64"
+      ],
+      "architectures": [],
+      "configurationsAndPlatforms": [
+        "Development-Win64"
+      ]
+    }
+  }
+}

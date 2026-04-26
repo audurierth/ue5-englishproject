@@ -1,0 +1,36 @@
+[15252:17788:0402/074123.741:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15252:17404:0402/074123.790:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15252:17788:0402/074123.827:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7980:8304:0402/074128.883:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-02D3CA2B65F9F349BE68865F7BC63372 will be ignored
+[24376:17184:0402/074556.328:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-300B0C0FE03B14E940CDE112FF7558DA will be ignored
+[15252:17404:0402/103722.095:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:16472:0402/103722.120:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:16480:0402/103725.020:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15252:17404:0402/103725.021:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15252:17392:0402/103725.038:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:16472:0402/103725.038:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17156:23312:0402/104811.044:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[17156:15812:0402/104811.128:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[17156:13216:0402/104811.555:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[17156:4812:0402/104811.645:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[17052:16480:0402/120116.031:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15252:17392:0402/120116.039:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15252:17392:0402/180230.968:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:16480:0402/180230.969:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15252:17788:0402/180239.865:ERROR:device_event_log_impl.cc(196)] [18:02:39.548] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[15252:17788:0402/180239.865:ERROR:device_event_log_impl.cc(196)] [18:02:39.660] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[15252:17788:0402/180244.863:ERROR:device_event_log_impl.cc(196)] [18:02:44.665] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[15252:17788:0402/180244.863:ERROR:device_event_log_impl.cc(196)] [18:02:44.713] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[15252:17788:0402/180245.195:ERROR:device_event_log_impl.cc(196)] [18:02:44.951] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[15252:17788:0402/181516.849:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

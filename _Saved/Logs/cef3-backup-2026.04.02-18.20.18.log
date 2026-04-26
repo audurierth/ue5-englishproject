@@ -1,0 +1,13 @@
+[27976:23720:0402/200828.890:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27976:14620:0402/200829.106:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27976:23720:0402/200829.215:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22764:26052:0402/200834.113:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0E1C85FA32F97F465C1F45CD2A617AC9 will be ignored
+[27976:21032:0402/200834.621:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[27976:23720:0402/200834.700:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27976:23720:0402/200834.700:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27976:23720:0402/200834.700:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27976:23720:0402/200834.700:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27976:21032:0402/200834.703:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27976:23720:0402/200835.965:ERROR:device_event_log_impl.cc(196)] [20:08:35.952] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[6092:16316:0402/201042.394:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[27976:23720:0402/202018.036:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
